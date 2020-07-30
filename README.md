@@ -2,7 +2,8 @@
 
 *description*
 
-[deployed url](satchbaker-cs52-routingdemo.surge.sh)
+Deployed URL
+satchbaker-cs52-routingdemo.surge.sh
 
 ## What Worked Well
 I think that everything went well and was pretty straightforward
