@@ -10,6 +10,7 @@ const autoprefixer = require('autoprefixer');
 
 module.exports = {
   mode: env,
+  output: { publicPath: '/' },
   entry: ['./src'], // this is where our app lives
   devtool: 'source-map', // this enables debugging with source in chrome devtools
   module: {
@@ -66,9 +67,12 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: './src/index.html',
       filename: './index.html',
+      // eslint-disable-next-line no-dupe-keys
+      filename: './200.html',
     }),
   ],
   devServer: {
     hot: true,
+    historyApiFallback: true,
   },
 };
