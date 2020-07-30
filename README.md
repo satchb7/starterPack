@@ -2,10 +2,10 @@
 
 *description*
 
-[deployed url](http://url-if-deployed-here)
+[deployed url](satchbaker-cs52-routingdemo.surge.sh)
 
 ## What Worked Well
-I think that my counter worked well, tracking how long we've been on the page.
+I think that everything went well and was pretty straightforward
 ## What Didn't
-I don't think anything necessarily didn't work, I'm more just still getting comfortable with understanding what everything does.
+The biggest issue I ran into, which i eventually figured out wasn't my fault was that surge wasn't working and all of my links from previous assingments were also down so I got really stressed out, but apparently two of Surge's data centers have been getting DDossed all day and they are trying to sort it out so at least it wasn't on my end. 
 ## Screenshots
