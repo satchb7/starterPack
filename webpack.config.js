@@ -68,7 +68,6 @@ module.exports = {
       template: './src/index.html',
       filename: './index.html',
       // eslint-disable-next-line no-dupe-keys
-      filename: './200.html',
     }),
   ],
   devServer: {
